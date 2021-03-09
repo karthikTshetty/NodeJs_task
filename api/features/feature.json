@@ -1,0 +1,9 @@
+{
+    "feature": {
+       "id": 3,
+        "name": "Test User",
+        "age" : 20,
+        "email": "test@test.com"
+    }
+}
+  
